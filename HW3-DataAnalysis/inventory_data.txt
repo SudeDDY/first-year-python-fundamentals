@@ -1,0 +1,15 @@
+rusty-sword | 3kg
+healing-herb | 0.5 kg
+torn-map | 0.1KG
+cracked-crystal | 2 kg
+rope | 1kg
+water-flask | 1.2 Kg
+lantern | 0.9kg
+trail-mix | 0.4 KG
+weather-cloak | 1.5kg
+shrine-key | 0.05kg
+copper-mug | 0.6KG
+dried-meat | 0.45kg
+apple | 0.2Kg
+magic-dust | 0.01kg
+old-rope | 1kg

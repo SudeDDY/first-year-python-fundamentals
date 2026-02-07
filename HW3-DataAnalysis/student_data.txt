@@ -1,0 +1,15 @@
+Lira Solis; House Ignis; score=78
+Mira Ivy; House Terra; score=45
+Corvin Shade; House Ventus; score=92
+Boros Flint; House Ignis; score=55
+Eliah Moren; House Aqua; score=61
+Toma Silver; House Ventus; score=73
+Ria Sun; House Ignis; score=88
+Alden Crow; House Terra; score=69
+Neril Thorn; House Aqua; score=58
+Myra Thorn; House Aqua; score=82
+Darion Vale; House Terra; score=64
+Nyra Sorn; House Ventus; score=91
+Fea Ren; House Aqua; score=59
+Lio Fenn; House Ignis; score=79
+Orin Hale; House Terra; score=8
