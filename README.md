@@ -1,8 +1,8 @@
 # First Year Python Fundamentals 🐍
 
-Welcome! This repository documents my programming journey during my **Freshman year of Computer Engineering**. 
+Welcome! This repository documents my programming journey during my **Freshman year of Computer Engineering**.
 
-It contains a collection of projects ranging from basic CLI tools to algorithmic search implementations. I've added my own personal touches and creative themes to standard assignments to make them more engaging.
+It contains a collection of projects ranging from basic CLI tools to advanced data structures, complex algorithms, and recursion. I've added my own personal touches and creative themes to standard assignments to make them more engaging.
 
 ## 📂 Project Directory
 
@@ -24,13 +24,21 @@ A script designed to parse, clean, and analyze raw text data from students and i
 Implementation of fundamental search algorithms to manage a city database.
 - **Highlights:** Recursive & Iterative approaches for **Binary Search** and **Linear Search**.
 
+### 🔍 [HW5: Custom ADTs (Stacks, Queues & Sets)](./HW5-DataStructures)
+Implementation of fundamental Abstract Data Types from scratch, strictly avoiding built-in libraries.
+- **Highlights:** Custom Stack for palindrome checking, Queue filtering, and Linked List-based Set operations.
+
+### 🔍 [HW6: Advanced Linked Lists, Trees & Recursion](./HW6-DataStructures)
+A deeper dive into complex data structures and functional programming concepts.
+- **Highlights:** QuickSort on Linked Lists, Tree inversion, Euler Tour Traversal, and recursive algorithms.
+
 ---
 
 ## 🛠️ Technologies & Concepts
 * **Language:** Python 3
-* **Core Concepts:** Loops, Conditional Logic, File I/O
-* **Data Structures:** Dictionaries, Sets, Lists, Tuples
-* **Algorithms:** Searching & Sorting
+* **Core Concepts:** Loops, Conditional Logic, File I/O, Object-Oriented Programming (OOP), Recursion
+* **Data Structures:** Dictionaries, Sets, Lists, Tuples, Stacks, Queues, Linked Lists, Trees
+* **Algorithms:** Searching (Linear & Binary), Sorting (QuickSort), Tree Traversals (Euler Tour)
 
 ---
 *Developed by a Computer Engineering Student | 2025-2026*
