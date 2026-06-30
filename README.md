@@ -24,11 +24,11 @@ A script designed to parse, clean, and analyze raw text data from students and i
 Implementation of fundamental search algorithms to manage a city database.
 - **Highlights:** Recursive & Iterative approaches for **Binary Search** and **Linear Search**.
 
-### 🔍 [HW5: Custom ADTs (Stacks, Queues & Sets)](./HW5-DataStructures)
+### 🥞 [HW5: Custom ADTs (Stacks, Queues & Sets)](./HW5-DataStructures)
 Implementation of fundamental Abstract Data Types from scratch, strictly avoiding built-in libraries.
 - **Highlights:** Custom Stack for palindrome checking, Queue filtering, and Linked List-based Set operations.
 
-### 🔍 [HW6: Advanced Linked Lists, Trees & Recursion](./HW6-DataStructures)
+### 🌳 [HW6: Advanced Linked Lists, Trees & Recursion](./HW6-DataStructures)
 A deeper dive into complex data structures and functional programming concepts.
 - **Highlights:** QuickSort on Linked Lists, Tree inversion, Euler Tour Traversal, and recursive algorithms.
 
