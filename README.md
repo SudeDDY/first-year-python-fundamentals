@@ -22,7 +22,7 @@ A script designed to parse, clean, and analyze raw text data from students and i
 
 ### 🔍 [HW4: City Search Algorithms](./HW4-CitySearch)
 Implementation of fundamental search algorithms to manage a city database.
-- **Highlights:** Recursive & Iterative approaches for **Binary Search** and **Linear Search**.
+- **Highlights:** Recursive & Iterative approaches for Binary Search and Linear Search.
 
 ### 🥞 [HW5: Custom ADTs (Stacks, Queues & Sets)](./HW5-DataStructures)
 Implementation of fundamental Abstract Data Types from scratch, strictly avoiding built-in libraries.
